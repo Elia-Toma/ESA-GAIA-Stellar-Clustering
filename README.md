@@ -54,4 +54,4 @@ To run the experiments, clone this repository and ensure the datasets have been 
 
 ## Acknowledgements
 
-The sequential implementation of the Single Linkage (SLINK) algorithm, utilised within this project as a sequential benchmark to evaluate the performance of our parallel Euclidean Minimum Spanning Tree strategies, is derived from the open-source repository authored by Battuzz. The source files located in the `PDPProject/SLINK/` directory are used in accordance with their original licensing terms.
+The sequential implementation of the Single Linkage (SLINK) algorithm, utilised within this project as a sequential benchmark to evaluate the performance of our parallel Euclidean Minimum Spanning Tree strategies, is derived from the open-source repository authored by Battuzz (https://github.com/battuzz/slink). The source files located in the `PDPProject/SLINK/` directory are used in accordance with their original licensing terms.
